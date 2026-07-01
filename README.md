@@ -144,6 +144,8 @@ This creates a cleaner, more interactive reporting experience.
 
 ![Airbnb dashboard](Snapshot%20from%20dashboard.png)
 
+Snapshot from dashboard (2).png
+
 
 
 
