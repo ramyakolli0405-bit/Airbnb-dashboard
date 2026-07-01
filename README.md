@@ -19,6 +19,7 @@ The **BEYOND BOOKINGS** is an interactive Power BI project built to explore Airb
 * **Source:** Maven Analytics
 * **Data Includes:** Listings, Hosts, Cities, Room Types, Property Types, Pricing, Reviews, Availability, and Customer Ratings.
 
+
 4 Features & Highlights
 
 ##  Business Problem
