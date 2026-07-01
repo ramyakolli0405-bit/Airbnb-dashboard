@@ -140,12 +140,4 @@ This creates a cleaner, more interactive reporting experience.
 * Cross-filtering Between Visuals
 * Clean & Interactive Dashboard Design
 
-9 Dashboard Preview
-
-![Airbnb dashboard](Snapshot%20from%20dashboard.png)
-
-Snapshot from dashboard (2).png
-
-
-
 
