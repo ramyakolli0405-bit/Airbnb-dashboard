@@ -37,6 +37,7 @@ The dashboard was designed to:
 * Evaluate customer satisfaction using rating metrics.
 * Help users explore insights through an interactive dashboard experience.
 
+
 5  Dashboard Walkthrough
 
 ## Business Snapshot
@@ -72,6 +73,7 @@ Instead of creating separate report pages:
 
 This creates a cleaner, more interactive reporting experience.
 
+
 6 Business Impact & Insights
 
 * Paris dominates the Airbnb market with the highest number of listings.
@@ -80,6 +82,7 @@ This creates a cleaner, more interactive reporting experience.
 * Listing growth accelerated rapidly before stabilizing, with a noticeable decline during the COVID-19 period.
 * Mexico City and Rio de Janeiro stand out for consistently high customer satisfaction scores.
 * Bookmark navigation improves report usability by enabling users to switch between summary and detailed rating analysis without changing pages.
+
 
 7 Business Questions This Dashboard Can Answer
 
@@ -123,6 +126,7 @@ This creates a cleaner, more interactive reporting experience.
 * How do bookmarks improve dashboard usability?
 * How can users compare overall ratings with detailed rating metrics in a single report?
 * How does interactive navigation reduce report complexity?
+
 
 8 Dashboard Features
 
