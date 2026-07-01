@@ -141,5 +141,5 @@ This creates a cleaner, more interactive reporting experience.
 * Clean & Interactive Dashboard Design
 
 9 Demos 
-https://github.com/ramyakolli0405-bit/Airbnb-dashboard/blob/main/Snapshot%20from%20dashboard.png
+![Airbnb dashboard](Snapshot%20from%20dashboard.png)
 
